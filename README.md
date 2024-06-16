@@ -1,8 +1,8 @@
 # Lede_06-Homework: Pandas and GitHub
  
  # Assignment:
- # - Complete the two notebooks in 06-homework.zip
- # - Submit on GradeScope through a GitHub repo.
+  - Complete the two notebooks in 06-homework.zip
+ - Submit on GradeScope through a GitHub repo.
 
 
 # Homework Assignment Part One: Building a pandas cheat sheet
